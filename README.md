@@ -1,8 +1,5 @@
-# FSAB Bootcamp 24 Frontend Template
+# Could not upload all files cause there was too many so I only uploaded my app. The rest of the files should be the same as the bootcamp template
 
 ## How to use this repo
 
-- Checkout to the branch of your choosing with `git checkout <branchName>` followed by `git pull`. If you're switching to a new branch, run `npm i`. To run the frontend, run `npm run dev` and navigate to [http://localhost:3000](http://localhost:3000)
-- Branch options:
-  - `main` (default): A polished version from the React/NextJS Bootcamp Day
-  - `integration-starter`: Begins work on integration; You can find functionality in `app/students/page.js` and check out [http://localhost:3000](http://localhost:3000)
+I guess download it and replace the template app with my app and hopefully it runs... At least it runs on my computer
