@@ -1,0 +1,14 @@
+.unpopped {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+}
+
+.popped {
+    background-color: white;
+    text-align: center;
+    margin: 10px;
+    color: black;
+}
